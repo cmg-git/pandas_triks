@@ -21,4 +21,4 @@ Assign the result to a new column.
 
 The implementation is in `vectorize_conditions.ipynb` and `vectorize_conditions.py`. The notebook can be run on `MyBinder.org`.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmg-git/pandas_triks/tree/main/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmg-git/pandas_triks/HEAD)
