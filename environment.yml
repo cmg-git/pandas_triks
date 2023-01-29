@@ -1,0 +1,11 @@
+name: pandas_tricks-env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - jupyter
+  - jupyterlab
+  - numpy
+  - pandas
